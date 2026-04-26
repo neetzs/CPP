@@ -67,5 +67,4 @@ int main()
         cout << a << " es igual a " << b << endl;
     }
 
-    return 0;
 }

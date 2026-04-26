@@ -11,20 +11,22 @@
 
 Este es un repositorio personal de aprendizaje en C++23. Aca voy a ir organizando ejemplos y ejercicios conforme voy avanzando en la materia, cubriendo desde conceptos básicos hasta temas más avanzados.
 
-El proyecto se actualizará progresivamente a medida que avance el curso, con nuevos ejemplos y secciones siendo agregadas según corresponda, tambien es posible que algunas partes sufran cambios o modificaciones a medida que se avanza con la materia, esto es solo de guia mientras tanto. 
+El proyecto se actualizará progresivamente a medida que avance el curso, con nuevos ejemplos y secciones siendo agregadas según corresponda, tambien es posible que algunas partes sufran cambios o modificaciones a medida que se avanza con la materia, esto es solo de guia mientras tanto.
 
 ---
 
 ## Estructura del Proyecto
 
 ### 00 - Fundamentos
+
 - 01 Hola Mundo
 - 02 Variables y Tipos de Datos
 - 03 Operadores
 - 04 Entrada/Salida
 - 05 Estructuras de Control
 
-### 01 - Funciones y Modulares (Proximamente)
+### 01 - Funciones y Modulares
+
 - 01 Funciones Básicas
 - 02 Paso de Parámetros
 - 03 Retorno de Valores
@@ -32,6 +34,7 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 05 Namespaces
 
 ### 02 - Manejo de Memoria (Proximamente)
+
 - 01 Punteros Básicos
 - 02 Arrays y Punteros
 - 03 Memoria Dinámica
@@ -39,6 +42,7 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 05 Smart Pointers
 
 ### 03 - POO Básico (Proximamente)
+
 - 01 Clases y Objetos
 - 02 Constructores y Destructores
 - 03 Atributos y Métodos
@@ -46,6 +50,7 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 05 Getters y Setters
 
 ### 04 - POO Avanzado (Proximamente)
+
 - 01 Herencia
 - 02 Polimorfismo
 - 03 Clases Abstractas
@@ -53,6 +58,7 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 05 Miembros Estáticos
 
 ### 05 - Contenedores STL (Proximamente)
+
 - 01 Vector
 - 02 List y Deque
 - 03 Map y Set
@@ -60,11 +66,13 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 05 Algoritmos STL
 
 ### 06 - Manejo de Errores (Proximamente)
+
 - 01 Excepciones
 - 02 Try-Catch
 - 03 Excepciones Personalizadas
 
 ### 07 - Temas Avanzados (Proximamente)
+
 - 01 Templates
 - 02 Programación Genérica
 - 03 Traits y SFINAE
@@ -72,12 +80,14 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 05 Expresiones Lambda
 
 ### 08 - Librerías Populares (Proximamente)
+
 - 01 Manejo de Archivos
 - 02 JSON
 - 03 Concurrencia
 - 04 Networking
 
 ### 99 - Proyectos Integradores (Proximamente)
+
 - 01 Calculadora
 - 02 Gestor de Tareas
 - 03 Sistema de Personas
