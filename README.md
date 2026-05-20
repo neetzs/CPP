@@ -33,7 +33,7 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 04 Recursión
 - 05 Namespaces
 
-### 02 - Manejo de Memoria (Proximamente)
+### 02 - Manejo de Memoria 
 
 - 01 Punteros Básicos
 - 02 Arrays y Punteros
@@ -137,4 +137,4 @@ Cada archivo tiene comentarios explicativos sobre qué hace el código.
 
 ---
 
-**Última actualización:** Abril 2026
+**Última actualización:** Mayo 2026
