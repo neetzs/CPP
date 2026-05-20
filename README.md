@@ -41,7 +41,7 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 04 Referencias
 - 05 Smart Pointers
 
-### 03 - POO Básico (Proximamente)
+### 03 - POO Básico 
 
 - 01 Clases y Objetos
 - 02 Constructores y Destructores
