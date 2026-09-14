@@ -49,7 +49,7 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 04 Encapsulamiento
 - 05 Getters y Setters
 
-### 04 - POO Avanzado (Proximamente)
+### 04 - POO Avanzado 
 
 - 01 Herencia
 - 02 Polimorfismo
