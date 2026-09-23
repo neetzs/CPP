@@ -79,14 +79,14 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 04 Move Semantics
 - 05 Expresiones Lambda
 
-### 08 - Librerías Populares (Proximamente)
+### 08 - Librerías Populares
 
 - 01 Manejo de Archivos
 - 02 JSON
 - 03 Concurrencia
 - 04 Networking
 
-### 99 - Proyectos Integradores (Proximamente)
+### 99 - Proyectos Integradores
 
 - 01 Calculadora
 - 02 Gestor de Tareas
