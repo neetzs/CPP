@@ -57,7 +57,7 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 04 Sobrecarga
 - 05 Miembros Estáticos
 
-### 05 - Contenedores STL (Proximamente)
+### 05 - Contenedores STL
 
 - 01 Vector
 - 02 List y Deque
@@ -65,13 +65,13 @@ El proyecto se actualizará progresivamente a medida que avance el curso, con nu
 - 04 Queue y Stack
 - 05 Algoritmos STL
 
-### 06 - Manejo de Errores (Proximamente)
+### 06 - Manejo de Errores 
 
 - 01 Excepciones
 - 02 Try-Catch
 - 03 Excepciones Personalizadas
 
-### 07 - Temas Avanzados (Proximamente)
+### 07 - Temas Avanzados 
 
 - 01 Templates
 - 02 Programación Genérica
@@ -137,4 +137,4 @@ Cada archivo tiene comentarios explicativos sobre qué hace el código.
 
 ---
 
-**Última actualización:** Mayo 2026
+**Última actualización:** Septiembre 2026
