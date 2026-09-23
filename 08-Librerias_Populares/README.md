@@ -2,7 +2,7 @@
 
 Exploramos librerías externas y el uso de características del sistema operativo.
 
-## 📌 Temas a Cubrir
+## Temas a Cubrir
 
 ### 1. **Manejo de Archivos**
 - Lectura y escritura de archivos
@@ -28,14 +28,14 @@ Exploramos librerías externas y el uso de características del sistema operativ
 - Librerías: Boost.Asio
 - HTTP requests
 
-## 🎯 Objetivos al Finalizar
+## Objetivos al Finalizar
 
 - [ ] Leer y escribir archivos
 - [ ] Trabajar con JSON
 - [ ] Crear aplicaciones multi-thread
 - [ ] Comunicación en red
 
-## 📝 Instalación de Librerías
+## Instalación de Librerías
 
 ```bash
 # En Ubuntu/Debian

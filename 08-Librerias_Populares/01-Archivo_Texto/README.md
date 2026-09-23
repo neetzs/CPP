@@ -664,5 +664,4 @@ vector<vector<string>> leerCSV(const string& archivo) {
 
     return datos;
 }
-```</content>
-<parameter name="filePath">/home/neetzs/CPP/08-Librerias_Populares/01-Archivo_Texto/README.md
+```
